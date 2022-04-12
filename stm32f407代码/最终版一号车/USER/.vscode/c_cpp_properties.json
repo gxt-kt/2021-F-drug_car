@@ -1,9 +1,0 @@
-{
-    "configurations": [
-        {
-            "name": "win32",
-            "configurationProvider": "cl.eide"
-        }
-    ],
-    "version": 4
-}

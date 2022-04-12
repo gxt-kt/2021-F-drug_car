@@ -1,6 +1,0 @@
-objcopy.exe --update-section ER_IROM1="c:\Users\gxt\Desktop\风力摆\USER\build\Template\USER.bin" "c:\Users\gxt\Desktop\风力摆\USER\build\Template\USER.axf" "c:\Users\gxt\Desktop\风力摆\USER\build\Template\USER.elf"
-
-objcopy.exe: c:\Users\gxt\Desktop\风力摆\USER\build\Template\USER.elf: warning: allocated section `RW_IRAM1' not in segment
-
-WARNING: The runtime version supported by this application is unavailable.
-Using default runtime: v4.0.30319
